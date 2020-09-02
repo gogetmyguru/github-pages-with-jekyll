@@ -1,3 +1,5 @@
-# Welcome to my blog
+# trying to edit .md file
 
-I'm glad you are here. I plan to talk about ...
+created repo
+added index file
+if index not fount by default it takes readme.md
